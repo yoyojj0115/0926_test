@@ -1,4 +1,4 @@
-	name: get stock price
+name: get stock price
 
 on:
   schedule:
@@ -24,4 +24,3 @@ jobs:
 
       - name: Run Python script
         run: python test1.py
-
