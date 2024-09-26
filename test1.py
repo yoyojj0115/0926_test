@@ -34,7 +34,7 @@ stock = ["1101","2330","1102"]
 
 	    # bot token
 
-	    token = "AAHRbeOpNSms00GnAuENdsgijpIZ77xFa0Y"
+	    token = "8036510727:AAHRbeOpNSms00GnAuENdsgijpIZ77xFa0Y"
 
 	    # 使用者 id
 
